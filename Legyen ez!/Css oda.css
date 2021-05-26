@@ -1,0 +1,21 @@
+h1{
+    color: salmon;
+    text-align: center
+}
+
+p{
+    color: dimgray
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+#igen{
+    font-size: 200%;
+}
+
+#nem{
+ font-size: 150%;
+ color: darkgrey
+}
